@@ -9,6 +9,7 @@ and then I scrape them and made my own personal website.
 In which I don't have to go through every website to read the blog.
 I can find them all on my website.
 
+![Alt Text](https://github.com/asbaravkar/Blog-Scrap/blob/main/demo.gif)
 
 # Disclaimer!!
 ##Not doing anything with their data. It is just for the "Education Purpose"
